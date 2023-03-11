@@ -11,6 +11,6 @@
 ## 运行测试
 ![Begin](https://github.com/XFZAIMFQ/C-Tetris/blob/main/test-image/begin.png)
 
-![Run](https://github.com/XFZAIMFQ/C-Tetris/blob/main/test-image/Run.png)
+![Run](https://github.com/XFZAIMFQ/C-Tetris/blob/main/test-image/run.png)
 
 ![Over](https://github.com/XFZAIMFQ/C-Tetris/blob/main/test-image/over.png)
