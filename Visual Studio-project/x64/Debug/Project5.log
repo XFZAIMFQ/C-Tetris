@@ -1,0 +1,12 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project5.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(58,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(57,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(56,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(55,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(347,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(457,76): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(457,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(184): warning C4715: “moveBlocks”: 不是所有的控件路径都返回值
+C:\Users\XFZAILDD\source\repos\Project5\main.cpp(445): warning C4700: 使用了未初始化的局部变量“clockLast”
+  Project5.vcxproj -> C:\Users\XFZAILDD\source\repos\Project5\x64\Debug\俄罗斯方块.exe
